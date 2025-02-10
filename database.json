@@ -1,0 +1,76 @@
+{
+  "routes": [
+    {
+      "name": "route 1",
+      "description": "route 1 description",
+      "image": "temp",
+      "length": "100",
+      "best_lap": "1",
+      "lap_date": "1",
+      "type": "bike",
+      "username": "username1",
+      "user_time": "2",
+      "user_time_date": "2"
+    },
+    {
+      "name": "route 2",
+      "description": "route 2 description",
+      "image": "temp",
+      "length": "200",
+      "best_lap": "2",
+      "lap_date": "2",
+      "type": "walk",
+      "username": "username2",
+      "user_time": "3",
+      "user_time_date": "3"
+    },
+    {
+      "name": "route 3",
+      "description": "route 3 description",
+      "image": "temp",
+      "length": "300",
+      "best_lap": "3",
+      "lap_date": "3",
+      "type": "walk",
+      "username": "username3",
+      "user_time": "4",
+      "user_time_date": "4"
+    },
+    {
+      "name": "route 4",
+      "description": "route 4 description",
+      "image": "temp",
+      "length": "400",
+      "best_lap": "4",
+      "lap_date": "4",
+      "type": "bike",
+      "username": "username4",
+      "user_time": "5",
+      "user_time_date": "5"
+    },
+    {
+      "name": "route 5",
+      "description": "route 5 description",
+      "image": "temp",
+      "length": "500",
+      "best_lap": "5",
+      "lap_date": "5",
+      "type": "bike",
+      "username": "username5",
+      "user_time": "6",
+      "user_time_date": "6"
+    },
+    {
+      "name": "route 6",
+      "description": "route 6 description",
+      "image": "temp",
+      "length": "600",
+      "best_lap": "6",
+      "lap_date": "6",
+      "type": "walk",
+      "username": "username6",
+      "user_time": "7",
+      "user_time_date": "7"
+    },
+  ]
+}
